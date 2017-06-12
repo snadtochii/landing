@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+}
+nav{
+    padding-bottom: 10px;
+}
+nav a{
+    text-transform: uppercase;
+    color: #43C2D3;
+    margin: 0 10px;
+}
+nav a.active, nav a:hover{
+    border-bottom: 2px solid #43C2D3;
+}

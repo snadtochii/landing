@@ -1,0 +1,19 @@
+#contacts{
+    background-color: #464646;
+    padding-bottom: 20px;
+}
+ul{
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+input[type="email"]{
+    padding: 7px;
+}
+button{
+    background-color: #222;
+    color: #fff;
+    padding: 9px;
+    border: 0;
+}

@@ -1,0 +1,18 @@
+h1{
+    margin: 30px 0 40px 0;
+}
+.row{
+    margin-bottom: 30px;
+}
+.fa{
+    font-size: 30px;
+    color: #43C2D3;
+}
+@media(max-width: 845px){
+    .row{
+        margin-bottom: 0;
+    }
+    #features{
+        margin-bottom: 30px;
+    }
+}

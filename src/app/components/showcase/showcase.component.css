@@ -1,0 +1,16 @@
+#showcase{
+    background: url("../../../../img/showcase2.jpg") no-repeat center center;
+    color: #56a76a;
+}
+#showcase .row{
+    height: 400px;
+}
+.showcase-content{
+    background: #333;
+    color: #fff;
+    border-radius: 90px;
+    opacity: 0.9;
+}
+h1{
+    font-size: 40px;
+}

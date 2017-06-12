@@ -1,0 +1,32 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+    color: #A9A9A9;
+    margin: 0;
+}
+
+ul, ol{
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid{
+    max-width: 1000px;
+}
+
+img{
+    width: 100%;
+}
+
+.primary-text{
+    color: #43C2D3;
+}
+
+.headers-color{
+    color: #000;
+}
+
+.subheader{
+    height: 75px;
+    background-color: #464646;
+}
