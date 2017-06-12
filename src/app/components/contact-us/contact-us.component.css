@@ -28,3 +28,12 @@
 .contact-body form label{
     text-transform: uppercase;
 }
+@media(max-width: 600px){
+    .contact-body form input[type="text"], .contact-body form textarea, .contact-body form button{
+        width: 100%;
+        margin: 0;
+    }
+    .contact-body form{
+        padding-top: 10px;
+    }
+}
